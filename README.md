@@ -15,4 +15,4 @@ Aquí iniciará la rama.
 
 Probando la rama en RS
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: # (This actually is the most platform independent comment)
