@@ -15,4 +15,9 @@ Aquí iniciará la rama.
 
 Probando la rama en RS
 
+
 Un cambio más antes de pull de RS
+
+[comment]: # (This actually is the most platform independent comment)
+
+[//]: # (This may be the most platform independent comment)
